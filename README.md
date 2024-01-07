@@ -72,4 +72,8 @@ Um simples buscador de CEP em React que utiliza a API do ViaCEP para buscar info
 
 ---
 
+## Git Pages
+  "http://carlosEduardo-hub.github.io/Buscador_CEP"
+
+
 Desenvolvido por: Carlos Eduardo Mendes de Oliveira
